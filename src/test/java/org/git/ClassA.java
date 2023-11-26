@@ -14,4 +14,15 @@ public class ClassA {
 		System.out.println("Method3");
 	}
 
+	private void group1() {
+		System.out.println("Group1 classs");
+	}
+	
+	private void group2() {
+		System.out.println("Group2 classs");
+	}
+	
+	private void group4() {
+		System.out.println("Group4 classs");
+	}
 }
